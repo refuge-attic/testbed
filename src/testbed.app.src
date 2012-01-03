@@ -1,0 +1,7 @@
+{application, testbed,
+ [
+  {description, "Refuge testbed"},
+  {vsn, git},
+  {registered, []},
+  {application, [kernel]}
+ ]}.

@@ -1,0 +1,6 @@
+{application, etap, [
+    {description, "Erlang TAP"},
+    {vsn, git},
+    {registered, []},
+    {applications, [kernel]}
+]}.
